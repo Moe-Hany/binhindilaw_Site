@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "team": "Our Team",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "mobile_menu": "Toggle mobile menu"
+  },
+  "services": {
+    "legal_consultation": "Legal Consultation",
+    "contract_drafting": "Contract Drafting",
+    "litigation": "Litigation",
+    "corporate_law": "Corporate Law",
+    "no_services": "No services available",
+    "more": "more"
+  },
+  "search": {
+    "placeholder": "Search...",
+    "open": "Open search",
+    "close": "Close search",
+    "results": "Search Results",
+    "no_results": "No results found",
+    "teams": "Teams",
+    "services": "Services"
+  },
+  "language": {
+    "toggle": "Toggle language"
+  },
+  "loading": "Loading",
+  "footer": {
+    "about": "About",
+    "ourStrategy": "Our Strategy",
+    "ourAdvantages": "Our Advantages",
+    "socialResponsibility": "Social Responsibility",
+    "ourServices": "Our Services",
+    "contacts": "Contacts",
+    "subscribe": "Subscribe",
+    "email": "Email",
+    "subscribeButton": "Subscribe",
+    "subscribing": "Subscribing...",
+    "successMessage": "Thank you for subscribing to our newsletter!",
+    "errorPrefix": "Error: ",
+    "emailPlaceholder": "Enter your email address",
+    "footerText": "© 2024. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  }
+} 

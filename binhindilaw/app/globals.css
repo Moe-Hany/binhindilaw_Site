@@ -1,3 +1,69 @@
 @import "tailwindcss";
 
+/* CSS Custom Properties for Brown Theme */
+:root {
+  /* Primary brown color palette based on #4B2615 */
+  --color-primary-50: 253 248 246;
+  --color-primary-100: 242 232 226;
+  --color-primary-200: 234 221 215;
+  --color-primary-300: 224 207 199;
+  --color-primary-400: 210 189 178;
+  --color-primary-500: 198 156 123;
+  --color-primary-600: 161 104 89;
+  --color-primary-700: 139 90 71;
+  --color-primary-800: 116 74 57;
+  --color-primary-900: 75 38 21; /* Main brown color #4B2615 */
+  --color-primary-950: 44 20 9;
+
+  /* Semantic color variables */
+  --color-primary: var(--color-primary-900);
+  --color-primary-foreground: var(--color-primary-50);
+  --color-secondary: var(--color-primary-100);
+  --color-secondary-foreground: var(--color-primary-900);
+  --color-accent: var(--color-primary-600);
+  --color-accent-foreground: var(--color-primary-50);
+  --color-muted: var(--color-primary-100);
+  --color-muted-foreground: var(--color-primary-700);
+}
+
+/* RTL Support */
+html[dir="rtl"] {
+  font-family: 'Noto Sans Arabic', 'DM Sans', sans-serif;
+}
+
+html[dir="ltr"] {
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* RTL spacing utilities */
+.rtl .space-x-reverse > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+}
+
+/* Custom scrollbar using brown theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(var(--color-primary-100));
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--color-primary-600));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--color-primary-700));
+}
+
+/* Global smooth transitions can be handled by Tailwind transition utilities */
+
+/* Base styling with brown theme */
+body {
+  color: rgb(var(--color-primary-900));
+  background-color: rgb(var(--color-primary-50));
+}
+
 

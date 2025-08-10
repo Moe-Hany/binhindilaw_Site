@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "team": "فريقنا",
+    "services": "خدماتنا",
+    "blog": "المدونة",
+    "contact": "اتصل بنا",
+    "mobile_menu": "تبديل القائمة المحمولة"
+  },
+  "services": {
+    "legal_consultation": "الاستشارات القانونية",
+    "contract_drafting": "صياغة العقود",
+    "litigation": "التقاضي",
+    "corporate_law": "قانون الشركات",
+    "no_services": "لا توجد خدمات متاحة",
+    "more": "المزيد"
+  },
+  "search": {
+    "placeholder": "البحث...",
+    "open": "فتح البحث",
+    "close": "إغلاق البحث",
+    "results": "نتائج البحث",
+    "no_results": "لم يتم العثور على نتائج",
+    "teams": "الفرق",
+    "services": "الخدمات"
+  },
+  "language": {
+    "toggle": "تغيير اللغة"
+  },
+  "loading": "جاري التحميل",
+  "footer": {
+    "about": "حول",
+    "ourStrategy": "استراتيجيتنا",
+    "ourAdvantages": "مزايانا",
+    "socialResponsibility": "المسؤولية الاجتماعية",
+    "ourServices": "خدماتنا",
+    "contacts": "اتصل بنا",
+    "subscribe": "اشترك",
+    "email": "البريد الإلكتروني",
+    "subscribeButton": "اشترك",
+    "subscribing": "جاري الاشتراك...",
+    "successMessage": "شكراً لك على الاشتراك في نشرتنا الإخبارية!",
+    "errorPrefix": "خطأ: ",
+    "emailPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+    "footerText": "© 2024. جميع الحقوق محفوظة.",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "شروط الخدمة",
+    "cookiePolicy": "سياسة ملفات تعريف الارتباط"
+  }
+} 
