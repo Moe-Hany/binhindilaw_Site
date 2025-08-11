@@ -33,7 +33,6 @@ This project consists of two main components:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd assiment
    ```
 
 2. **Install Frontend Dependencies**
